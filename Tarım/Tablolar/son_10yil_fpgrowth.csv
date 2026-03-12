@@ -1,0 +1,11 @@
+antecedent,consequent,support,confidence,lift
+"Peas, dry",Flaxseed,0.46,1.0,2.18
+Flaxseed,"Peas, dry",0.46,1.0,2.18
+"Peas, dry",Canola (rapeseed),0.43,0.93,1.83
+Canola (rapeseed),"Peas, dry",0.43,0.84,1.83
+Canola (rapeseed),Flaxseed,0.43,0.84,1.83
+Flaxseed,Canola (rapeseed),0.43,0.93,1.83
+"Rye, fall remaining",Canola (rapeseed),0.49,0.71,1.41
+Canola (rapeseed),"Rye, fall remaining",0.49,0.97,1.41
+"Rye, fall remaining",Corn for grain,0.47,0.68,1.4
+Corn for grain,"Rye, fall remaining",0.47,0.97,1.4

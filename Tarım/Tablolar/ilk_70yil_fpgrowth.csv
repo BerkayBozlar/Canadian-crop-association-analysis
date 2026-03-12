@@ -1,0 +1,11 @@
+antecedent,consequent,support,confidence,lift
+Flaxseed,Sugar beets,0.4,0.63,1.55
+Sugar beets,Flaxseed,0.4,0.99,1.55
+Sugar beets,"Peas, dry",0.4,0.99,1.34
+"Peas, dry",Sugar beets,0.4,0.54,1.34
+Flaxseed,"Peas, dry",0.63,0.99,1.33
+"Peas, dry",Flaxseed,0.63,0.85,1.33
+"Peas, dry","Beans, all dry (white and coloured)",0.4,0.54,1.3
+"Beans, all dry (white and coloured)","Peas, dry",0.4,0.97,1.3
+Sugar beets,"Rye, all",0.4,1.0,1.29
+"Rye, all",Sugar beets,0.4,0.52,1.29

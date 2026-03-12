@@ -1,0 +1,14 @@
+antecedent,consequent,support,confidence,lift
+Rye, fall remaining,Sunflower seed,0.41,0.51,1.25
+Rye, spring,Sunflower seed,0.41,0.51,1.25
+"Sunflower seed,""Rye, fall remaining"",0.41,1.0,1.25"
+"Sunflower seed,""Rye, spring"",0.41,1.0,1.25"
+"Mustard seed,""Rye, spring"",0.45,1.0,1.25"
+Rye, spring,Mustard seed,0.45,0.56,1.25
+"Rye, fall remaining,""Rye, spring"",0.8,1.0,1.25"
+"Rye, spring,""Rye, fall remaining"",0.8,1.0,1.25"
+"Mustard seed,""Rye, fall remaining"",0.45,1.0,1.25"
+Rye, fall remaining,Mustard seed,0.45,0.56,1.25
+
+Apriori suresi: 10.2439 saniye
+FP-Growth suresi: 12.1966saniye

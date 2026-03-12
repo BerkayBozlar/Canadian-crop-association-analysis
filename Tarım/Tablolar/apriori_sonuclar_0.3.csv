@@ -1,0 +1,14 @@
+antecedent,consequent,support,confidence,lift
+Canola (rapeseed),Mustard seed,0.39,1.0,2.24
+Mustard seed,Canola (rapeseed),0.39,0.88,2.24
+Sunflower seed,Mustard seed,0.32,0.77,1.73
+Mustard seed,Sunflower seed,0.32,0.71,1.73
+Rye, spring,Sunflower seed,0.41,0.51,1.25
+Rye, fall remaining,Sunflower seed,0.41,0.51,1.25
+"Canola (rapeseed),""Rye, fall remaining"",0.39,1.0,1.25"
+"Canola (rapeseed),""Rye, spring"",0.39,1.0,1.25"
+"Mustard seed,""Rye, spring"",0.45,1.0,1.25"
+Rye, fall remaining,Mustard seed,0.45,0.56,1.25
+
+Apriori s�resi: 28.0626 saniye
+FP-Growth s�resi: 40.3478saniye
